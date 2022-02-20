@@ -1,0 +1,18 @@
+/* .root table {
+  border: 1px solid black;
+} */
+
+.root table th,
+.root table td {
+  border: 1px solid black;
+
+}
+table{
+  margin-top: 15px;
+  border-spacing: 0;
+}
+th,
+td,
+table {
+  padding: 15px;
+}
